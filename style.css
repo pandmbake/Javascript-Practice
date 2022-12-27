@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+    font-family: sans-serif;
+    color: blue;
+}
+
+#button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+h2 {
+
+    text-align: center;
+    font-family: sans-serif;
+    color: blue;
+}
